@@ -7,7 +7,7 @@ PNG画像の表示またはMMDを動かせます。
 HUBOTにスクリプトを追加するように機能が追加できます。  
 _※追加しないと機能はありません_
 
-![スクリーンショット](https://github.com/hurumeki/mascot-ops/screenshot.png "スクリーンショット")
+![スクリーンショット](./screenshot.png "スクリーンショット")
 
 ## Features
 * マスコットの表示
